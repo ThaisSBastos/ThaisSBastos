@@ -2,11 +2,11 @@
 
 Amo livros e dados!
 
-Os livros são uma maneira incrível de contar histórias e os dados são como uma ferramenta mágica para compreender o mundo
+Os livros são uma maneira incrível de contar histórias e os dados são como uma ferramenta mágica para compreender o mundo. Porque não aprender um pouquinho mais todos os dias? 
 
 - 🔭 No momento estou trabalhando na minha certificação profissional **do Google Data Analytics**
 
-- 🌱 Atualmente estou aprendendo sobre **Linguagem R, SQL, Phyton e Tableau**
+- 🌱 Atualmente estou aprendendo sobre **Linguagem R e SQL**
 
 - 👯 Também estou compartilhando meu portfólio de Power BI no [Data Science Portfol.io](datascienceportfol.io/thaissbastos)
 
@@ -14,7 +14,7 @@ Os livros são uma maneira incrível de contar histórias e os dados são como u
 
 - 📝 Para saber mais sobre minhas experiências, sobre mim e minhas skills, você pode acessar [https://whimsical.com/jornada-thais-s-B2cWQNSBFBxfUBfFnHujF](https://whimsical.com/jornada-thais-s-B2cWQNSBFBxfUBfFnHujF)
 
-- 💬 Você pode me perguntar sobre **Power BI, DAX, Linguagem M, SQL Básico, Excel e ETL**
+- 💬 Você pode me perguntar sobre **Power BI, DAX, Linguagem M, SQL Intermediário, Excel e ETL**
 
 - 📫 E você pode me achar através do email **tatasalamoni@gmail.com**
 
