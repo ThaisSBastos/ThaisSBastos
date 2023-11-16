@@ -2,7 +2,8 @@
 
 Amo livros e dados!
 
-Os livros são uma maneira incrível de contar histórias e os dados são como uma ferramenta mágica para compreender o mundo. Porque não aprender um pouquinho mais todos os dias? 
+Os livros são uma maneira incrível de contar histórias e os dados são como uma ferramenta mágica para compreender o mundo. 
+Porque não aprender um pouquinho mais todos os dias? 
 
 - 🔭 No momento estou trabalhando na minha certificação profissional **do Google Data Analytics**
 
